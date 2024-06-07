@@ -175,6 +175,11 @@
     color:rgba(255,255,255,.7);
     font-size:16px;margin-bottom:50px
   }
+ .header-content-inner{
+    border: 5px solid white; /* Change 'red' to any color you like */
+    padding: 10px; /* Adds space inside the border */
+    margin: 10px; /* Adds space outside the border */
+  }
   @media (min-width:768px){
     header{
       min-height:100%
